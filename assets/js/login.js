@@ -70,7 +70,7 @@ $(function () {
                     // 将登录成功得到的 token 字符串，保存到 localStorage 中
                     localStorage.setItem('token', res.token)
                     // 登录成功后跳转到后台主页
-                    location.href = '/index.html'
+                    location.href = '/大事件后台管理/index.html'
                 }
             }
 
