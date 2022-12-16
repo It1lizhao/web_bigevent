@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: #f2f3f5;
+}
+
+#form-search {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#pageBox {
+    padding-left: 17px;
+}
